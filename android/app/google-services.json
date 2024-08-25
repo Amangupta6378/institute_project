@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "583041405063",
+    "project_id": "institute-ff2cf",
+    "storage_bucket": "institute-ff2cf.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:583041405063:android:edad8e4e3f95c1cd086822",
+        "android_client_info": {
+          "package_name": "com.institute_project"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBjHuAQPaO8MtZPOcBdXvnd7t9kEkTi19I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
